@@ -47,4 +47,35 @@
 12. Population of countries in between 5 lakh and 20 lakhs.
 13. Country name is not start with 'C'.
 
+# Assignment 5,6 & 7
+
+SORTING & GROUPING DATA
+
+1. Create a database called Countriees
+2. Create tables of Country and Persons
+3. Insert 10 raws of data into the tables.
+4. Make a query to retrive the first three char from country table.
+5. Make a query using  concatenate function based on persons table.
+6. From Persons table count the numbers of unique country names.
+7. Retrive maximum number and minimum number  of population from country table and persons table.
+8. Insert 2 new rows into Persons table making NULL in Last_name.
+9. Using limit function retrive the population from Country table.
+10. Using randam and limit function make a query to retrive the 3 rows.
+11. Finding toal population greater than 50000. 
+12. Retrive the average rating of each country and also including number of persons more than 2 in ascending order.  
+
+Joins and Union.
+
+1. Using Joins function from persons and country tables perform the inner,Right and Left functions.
+2. Use distinct function, both persons and country tables.
+3. Union fuction including duplicates.
+4. Round off the rating including person names in persons table.
+
+User defined function
+1. Add a column name DOB 
+2. calculate Dob using user defined function
+3. Retrive the created table with fetch age of all persons.
+4. Find length of each country name from country table.
+5. Extract the first three character using left function.
+6. Convert all first name and last name into upper case and lower case from Country table.
     
