@@ -78,4 +78,15 @@ User defined function
 4. Find length of each country name from country table.
 5. Extract the first three character using left function.
 6. Convert all first name and last name into upper case and lower case from Country table.
-    
+
+# Assignment 8
+
+Based on previous Assignment data
+
+1. Sort the number of persons in a country from high to low.
+2. Retrive average rating of persons in each countries which is greater than 3.0.
+3. Using subqueries finding the same rating as USA  have.
+4.  Create a new database called Product and create table customer.
+5. create view named customer_info in the customert table showing full name and email address.
+6. Updateing the phone number the country of a particular state
+7. Retrive the column customer-details with sorting the state column in ascending order.
