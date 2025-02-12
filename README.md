@@ -47,7 +47,7 @@
 12. Population of countries in between 5 lakh and 20 lakhs.
 13. Country name is not start with 'C'.
 
-# Assignment 5,6 & 7
+# Assignment 5
 
 SORTING & GROUPING DATA
 
@@ -64,6 +64,7 @@ SORTING & GROUPING DATA
 11. Finding toal population greater than 50000. 
 12. Retrive the average rating of each country and also including number of persons more than 2 in ascending order.  
 
+# Assignment 6
 Joins and Union.
 
 1. Using Joins function from persons and country tables perform the inner,Right and Left functions.
@@ -71,6 +72,7 @@ Joins and Union.
 3. Union fuction including duplicates.
 4. Round off the rating including person names in persons table.
 
+# Assignment 7
 User defined function
 1. Add a column name DOB 
 2. calculate Dob using user defined function
