@@ -92,3 +92,20 @@ Based on previous Assignment data
 5. create view named customer_info in the customert table showing full name and email address.
 6. Updateing the phone number the country of a particular state
 7. Retrive the column customer-details with sorting the state column in ascending order.
+
+# Assignment 9
+
+Create a stored procedure
+1. Create a database  company 
+2. Create and insert details into table named workers
+3. create a stored procedure using in parameters.
+   and to call the data only department using workers_data. 
+4. Second one is using in and out parameters call the salary of
+   the workers as P_salary.
+5. Third one is using in parameters changing the  department  and 
+   calling  in workers_details.
+6. Fourth one is using in and out parameters count the number 
+   of departmemt workers working as P_workercount.
+7. Last one is using in and out parameters finding the average 
+   salary of each workers in a department, as avg_salary
+   
