@@ -108,4 +108,17 @@ Create a stored procedure
    of departmemt workers working as P_workercount.
 7. Last one is using in and out parameters finding the average 
    salary of each workers in a department, as avg_salary
-   
+
+# Assignment 10
+
+Create a trigger
+1. create database school_infromation
+2. create table and insert values into teachers
+3. create trigger called before_insert_teacher and make a statement ' salary cannot be zero'.
+4. create table teacher_log.
+5. create trigger called after_insert_teacher, insert as  
+   action_type and create new id also datetime stamp.
+6. create trigger called before_delete_trigger and make
+   statement ' cannot delete experience more than 10 years'.            
+7. create trigger called after_delete_trigger and the condition is when the data deleted from teachers table its not deleted from teacher_log.
+
